@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fnafmod",
+  "name": "FNaF Universe Mod",
+  "description": "A mod based off the whole FNaF Universe, which includes FNaF, and well recieved popular fan-games!",
+  "version": "v1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Link1234Gamer, xDuskx_, HydraLord101, _ShadowLink_, Cucho, Andreas, YuanShen123, RetroCode72"],
+  "credits": "Scott Cawthon for the FNaF series.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
