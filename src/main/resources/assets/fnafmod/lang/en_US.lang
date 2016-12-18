@@ -1,0 +1,42 @@
+itemGroup.fnafmod=FNaF Universe
+
+entity.Fredbear.name=Fredbear
+entity.Springbonnie.name=Springbonnie
+entity.Springtrap.name=Springtrap
+entity.Pre_Mangle.name=Pre-made Mangle
+entity.Candy.name=Candy The Cat
+entity.Bonnie_Bunny.name=Bonnie The Bunny
+entity.Freddy_Fazbear.name=Freddy Fazbear
+entity.Foxy_Fox.name=Foxy The Pirate Fox
+entity.Golden_Freddy.name=Golden Freddy
+entity.NMFredbear.name=Nightmare Fredbear
+entity.Funtime_Freddy.name=Funtime Freddy
+entity.ShadowFreddy.name=Shadow Freddy
+entity.ShadowBonnie.name=Shadow Bonnie
+entity.Chica_Chicken.name=Chica The Chicken
+entity.Puppet.name=The Puppet
+entity.RPuppet.name=Reverse Puppet
+entity.NMRat.name=Nightmare Rat
+entity.Withered_Bonnie.name=Withered Bonnie
+entity.Toy_Bonnie.name=Toy Bonnie
+entity.NightMarionne.name=Nightmarionne
+entity.Minirina.name=Minirina
+entity.Withered_Freddy.name=Withered Freddy
+entity.ifreddy.name=Ignited Freddy
+entity.Toy_Freddy.name=Toy Freddy
+
+tile.BlockTile.name=Checkered Floor Tile
+tile.BlockMultiTile.name=Multi Checkered Tile
+tile.red_arcade_machine.name=Red Arcade Machine
+tile.blue_arcade_machine.name=Blue Arcade Machine
+tile.green_arcade_machine.name=Green Arcade Machine
+tile.cyan_arcade_machine.name=Cyan Arcade Machine
+tile.yellow_arcade_machine.name=Yellow Arcade Machine
+tile.orange_arcade_machine.name=Orange Arcade Machine
+tile.f_plushie.name=Freddy Plushie
+tile.cupcake.name=Chica's Cupcake
+tile.camera.name=Security Camera
+tile.stand.name=Guitar Stand
+tile.desk.name=FNaF 1 Desk
+
+item.security_tablet.name=Security Tablet

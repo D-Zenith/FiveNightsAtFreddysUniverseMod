@@ -1,0 +1,33 @@
+{
+  "version": 0,
+  "poses": {
+    "IDLE": [
+      {
+        "pose": "",
+        "time": 20
+      }
+    ],
+    "WALKING": [
+      {
+        "pose": "NightmareRat Walking 1",
+        "time": 6
+      },
+      {
+        "pose": "NightmareRat Walking 2",
+        "time": 4
+      },
+      {
+        "pose": "NightmareRat Walking 3",
+        "time": 4
+      },
+      {
+        "pose": "NightmareRat Walking 4",
+        "time": 4
+      },
+            {
+        "pose": "NightmareRat Walking 5",
+        "time": 4
+      }
+    ]
+  }
+}

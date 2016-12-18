@@ -1,0 +1,19 @@
+{
+    "static": {"category": "master", "sounds": ["static"]},
+
+    "mob.animatronic.hurt": {"category": "hostile", "sounds": ["animatronic_hurt1"]},
+    "mob.bb.say": {"category": "hostile", "sounds": ["bb1", "bb2", "bb3"]},
+    "mob.animatronic.step": {"category": "hostile", "sounds": ["wood4"]},
+    "mob.fredbear.laugh": {"category": "hostile", "sounds": ["fredbear_laugh"]},
+    "mob.springtrap.moan": {"category": "hostile", "sounds": ["moan"]},
+    "mob.bonnie.moan": {"category": "hostile", "sounds": ["animatronic_breathe1", "animatronic_breathe2", "animatronic_breathe3", "animatronic_breathe4"]},
+    "mob.freddy.laugh": {"category": "hostile", "sounds": ["freddy_laugh1", "freddy_laugh2", "freddy_laugh3", "Music_box"]},
+    "mob.ffreddy.talk": {"category": "hostile", "sounds": ["Freddy02", "Freddy03", "Freddy04", "Freddy05", "Freddy06", "Freddy07", "Freddy09", "Freddy10"]},
+    "mob.ffreddy.scream": {"category": "hostile", "sounds": ["Freddy_Jumpscare"]},
+    "mob.foxy.say": {"category": "hostile", "sounds": ["pirate_song"]},
+    "mob.gfreddy.say": {"category": "hostile", "sounds": ["Laugh_Giggle_Girl_1", "Robotvoice"]},
+    "mob.puppet.play": {"category": "hostile", "sounds": ["Jackinthebox", "Music_Box_Melody_Playful"]},
+    "mob.puppet.music": {"category": "hostile", "sounds": ["Music_Box_Melody_Playful"]},
+    "mob.rpuppet.haunt": {"category": "hostile", "sounds": ["musicboxr"]},
+    "mob.nmrat.say": {"category": "hostile", "sounds": ["Attack_twitch"]}    
+}
